@@ -49,7 +49,6 @@ const App = () => {
           </div>
         </div>
       </nav>
-
       {/* 히어로 섹션 */}
       <header className="py-20 px-6 relative overflow-hidden">
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[300px] bg-blue-600/10 blur-[120px] rounded-full -z-10"></div>
